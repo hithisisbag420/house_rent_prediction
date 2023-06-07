@@ -5,13 +5,9 @@ RegressorProject.egg-info/SOURCES.txt
 RegressorProject.egg-info/dependency_links.txt
 RegressorProject.egg-info/requires.txt
 RegressorProject.egg-info/top_level.txt
-src/__init__.py
 src/exception.py
 src/logger.py
-src/utlis.py
 src/components/__init__.py
-src/components/data_injestion.py
-src/components/data_transformatio.py
 src/components/model_trainer.py
 src/pipeline/__init__.py
 src/pipeline/prediction_pipeline.py
